@@ -1,0 +1,16 @@
+- load render conf
+- give hints to window
+  + core profile
+  + opengl version (3.3)
+- create window
+- make context current
+- load gl extensions
+- enable blend
+- set blend function
+- init renderer
+  + gen and bind VAO
+  + gen and bind VBO
+  + put data in VBO
+- set key callback
+- set framebuffer size callback
+- main loop
